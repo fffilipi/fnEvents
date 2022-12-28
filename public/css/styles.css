@@ -185,6 +185,15 @@
 #info-container #event-submit {
   margin: 20px 0;
 }
+
+#itens-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+#itens-list li {
+  display: flex;
+}
   
   /* footer */
   footer {
