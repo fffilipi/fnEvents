@@ -51,7 +51,7 @@
         </div>
     </main>
     <footer>
-        <p>fnevents &copy; 2022</p>
+        <p>fnevents &copy; 2023</p>
     </footer>
     <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     </body>
