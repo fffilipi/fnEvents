@@ -37,7 +37,7 @@
 
                     <li class="nav-tem">
                         <form action="/logout" method="POST">
-                            @csrf 
+                            
                             <a href="/logout" class="nav-link" 
                                 onclick="event.preventDefault(); this.closest('form').submit();">
                                 Sair
