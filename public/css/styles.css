@@ -210,6 +210,10 @@
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.dashboard-events-container form {
+  display: inline-block;
+}
   
   /* footer */
   footer {

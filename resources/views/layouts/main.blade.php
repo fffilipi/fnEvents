@@ -36,10 +36,13 @@
                     </li>
 
                     <li class="nav-tem">
+                        @csrf 
                         <form action="/logout" method="POST">
-                            
-                            <a href="/logout" class="nav-link" 
-                                onclick="event.preventDefault(); this.closest('form').submit();">
+                            @csrf
+                            <a href="/logout" 
+                               class="nav-link" 
+                               onclick="event.preventDefault(); 
+                               this.closest('form').submit();">
                                 Sair
                             </a>
                         </form>
